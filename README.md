@@ -4,8 +4,8 @@
 
 # Instruções para jogar
 
-1 - Os movimentos da snake, são realizados pelas setas do teclado
-2 - O jogo só finaliza no momento que a snake se colidir
+1 - Os movimentos da snake, são realizados pelas setas do teclado<br>
+2 - O jogo só finaliza no momento que a snake se colidir<br>
 3 - Para reiniciar o game basta atualizar a página
 
 
